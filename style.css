@@ -1,0 +1,35 @@
+#root {
+    display: flex;
+    height: 100vh;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.root-list {
+    margin-left: 0;
+    padding: 10px;
+    background-color: aqua;
+    width: 40%;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+li {
+    display: flex;
+}
+
+p {
+    margin-right: auto;
+}
+
+.root-item {
+    background-color: tomato;
+    width: 60%;
+    padding: 10px;
+}
